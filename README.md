@@ -8,7 +8,7 @@ BIM or Building Information Modeling is a highly collaborative process allowing 
 
 
 Every home we work on will have:
-* GitHub Repo
+* [GitHub Repo](https://github.com/orgs/United-Home/repositories)
   * Architectural Folder
     * Revit CAD Master
     * Revit CAD Plumbing
@@ -25,7 +25,7 @@ Every home we work on will have:
   * Creative Ideas
   * Existing Spaces
   * Inspiration
-* Youtube Playlist
+* [Youtube Playlist](https://www.youtube.com/channel/UCGCf76YwmUxgUNZyCbBKnyQ)
   * Aerial Videos
   * House Walkthrough
   * How-To Tutorial for Property
