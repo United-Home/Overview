@@ -21,7 +21,7 @@ Every home we work on will have:
     * Floor Map
     * Land Survey
     * Site Map
-* Pinterest Board
+* [Pinterest Board](https://www.pinterest.com/unitedhomeview/)
   * Creative Ideas
   * Existing Spaces
   * Inspiration
