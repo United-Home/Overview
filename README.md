@@ -41,7 +41,7 @@ Every home we work on will have:
 8. Write your S.T.A.R in the Commit Message Area of Github Desktop  ([See Example](https://github.com/United-Home/900-32nd-St/commit/fd3d58ab3c71ee0d4268cf18957702a4985722ed))
 10. [Create Commit](https://learn.sourcegraph.com/how-to-commit-code-to-a-git-repository-with-github-desktop) in Github Desktop
 11. [Push to Origin](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
-12. Go to your Commit on Github & Write a Comment to link the Commit to the Original Issue ([Learn How Here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#commit-shas))  
+12. Go to your Commit on GitHub & Write a Comment to link the Commit to the Original Issue ([Learn How Here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#commit-shas))  
 
 
 ### Looking for our Revit Files?
