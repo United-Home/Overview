@@ -35,12 +35,17 @@ Every home we work on will have:
 2. [Fork the Repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) of the House Repository
 3. Download [Github for Desktop](https://desktop.github.com/)
 4. [Download Revit](https://github.com/United-Home/Overview)
-5. Find the Revit Files for the House in the following Location:<br>
+5. Pick an Architectural Issue in the GitHub Issues for the Repo You Chose
+6. [Study Revit](https://knowledge.autodesk.com/support/revit/learn) & Make Changes as Specified in the Issue
+7. Save Changes in Revit
+8. Write your S.T.A.R in the Commit Message Area of Github Desktop  ([See Example](https://github.com/United-Home/900-32nd-St/commit/fd3d58ab3c71ee0d4268cf18957702a4985722ed))
+10. [Create Commit](https://learn.sourcegraph.com/how-to-commit-code-to-a-git-repository-with-github-desktop) in Github Desktop
+11. [Push to Origin](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
+12. Go to your Commit on Github & Write a Comment to link the Commit to the Original Issue ([Learn How Here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#commit-shas))  
+
+
+### Looking for our Revit Files?
+1. Find the Revit Files for the House in the following Location:<br>
    houserepo/Architecture/
-6. Choose a SubFolder of the Type of Work You Want to do (Ex: HVAC, Plumbing, Electric, or Main)
-8. Open the Master File found in the subfolder in Revit
-9. [Study Revit](https://knowledge.autodesk.com/support/revit/learn) & Make Changes
-10. Save Changes in Revit
-11. Write your S.T.A.R in the Commit Message Area of Github Desktop  ([See Example](https://github.com/United-Home/900-32nd-St/commit/fd3d58ab3c71ee0d4268cf18957702a4985722ed))
-12. [Create Commit](https://learn.sourcegraph.com/how-to-commit-code-to-a-git-repository-with-github-desktop) in Github Desktop
-13. [Push to Origin](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
+2. Choose a SubFolder of the Type of Work You Want to do (Ex: HVAC, Plumbing, Electric, or Main)
+3. Open the Master File found in the subfolder in Revit
