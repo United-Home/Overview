@@ -35,10 +35,11 @@ Every home we work on will have:
 2. [Fork the Repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) of the House Repository
 3. Download [Github for Desktop](https://desktop.github.com/)
 4. [Download Revit](https://github.com/United-Home/Overview)
-5. Find the Master Revit File for the House in the following Location:<br>
-   houserepo/Architecture/Main Architecture file/Master Architectural file.rvt
-6. Open this File in Revit
-7. [Study Revit](https://knowledge.autodesk.com/support/revit/learn) & Make Changes
-8. Save Changes in Revit
-9. [Create Commit](https://learn.sourcegraph.com/how-to-commit-code-to-a-git-repository-with-github-desktop) in Github Desktop
-10. [Push to Origin](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
+5. Find the Revit Files for the House in the following Location:<br>
+   houserepo/Architecture/
+6. Choose a SubFolder of the Type of Work You Want to do (Ex: HVAC, Plumbing, Electric, or Main)
+8. Open the Master File found in the subfolder in Revit
+9. [Study Revit](https://knowledge.autodesk.com/support/revit/learn) & Make Changes
+10. Save Changes in Revit
+11. [Create Commit](https://learn.sourcegraph.com/how-to-commit-code-to-a-git-repository-with-github-desktop) in Github Desktop
+12. [Push to Origin](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
