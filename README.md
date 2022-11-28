@@ -41,5 +41,6 @@ Every home we work on will have:
 8. Open the Master File found in the subfolder in Revit
 9. [Study Revit](https://knowledge.autodesk.com/support/revit/learn) & Make Changes
 10. Save Changes in Revit
-11. [Create Commit](https://learn.sourcegraph.com/how-to-commit-code-to-a-git-repository-with-github-desktop) in Github Desktop
-12. [Push to Origin](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
+11. Write your S.T.A.R in the Commit Message Area of Github Desktop  ([See Example](https://github.com/United-Home/900-32nd-St/commit/fd3d58ab3c71ee0d4268cf18957702a4985722ed))
+12. [Create Commit](https://learn.sourcegraph.com/how-to-commit-code-to-a-git-repository-with-github-desktop) in Github Desktop
+13. [Push to Origin](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
