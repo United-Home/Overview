@@ -44,15 +44,15 @@ Cleaning is removing dust and dirt from surfaces, such as floors and countertops
 - [ ] Sweep, vacuum, dust, and/or mop areas before sanitizing. Start from the top down to ensure there are no visible signs of dirt. Sweep all hard surface floors and vacuum carpeting.
 - [ ] Wipe down hard surfaces with soap and water.  When mopping, work from the back corner of the room to the front, and dispose of the water in a sink that has not yet been cleaned.
 - [ ] Clean soft surfaces based on the manufacturer’s instructions. Soft surfaces include things like carpet, bedding, and upholstery. If soiled, carefully remove any visible dirt or grime, then clean with the appropriate cleaners. If possible, machine-wash items according to the manufacturer’s instructions
-- [ ] Clean the toilet. Use baking soda as a gentle scrubber when necessary.
-- [ ] To clean the toilet water tank, first, take off the lid. Then, gently stir the area with an old disinfectant disc using your hand. You'll see this spot mostly in the right side of the overflow tube. While stirring, flush the toilet frequently until you see clearer water in both the tank and the bowl. Replace it with a new disinfectant disc in the same area and put the lid back on.
 
 ### Step 3: Sanitize
 Sanitizing is when you use chemicals to reduce bacteria on surfaces such as doorknobs and TV remotes. Be sure to:
 
 - [ ] Once a hard surface is clean, spray high-touch surfaces in each room with an approved disinfectant spray such as the vinegar-water mix.
 - [ ] Let the disinfectant stand for the length of time specified on the product label
-- [ ] Allow the surface to air-dry
+- [ ] Allow the surface to air-dry.
+- [ ] Clean the toilet. Use baking soda as a gentle scrubber when necessary.
+- [ ] To put the disinfectant discs in the toilet water tank, first, take off the lid. Then, gently stir the area with an old disinfectant disc using your hand. You'll see this spot mostly in the right side of the overflow tube. While stirring, flush the toilet frequently until you see clearer water in both the tank and the bowl. Replace it with a new disinfectant disc in the same area and put the lid back on.
 
 ### Step 4: Check
 Once you’re done sanitizing, it’s a good idea to make sure you’ve not missed anything. Be sure to:
@@ -62,7 +62,6 @@ Once you’re done sanitizing, it’s a good idea to make sure you’ve not miss
 
 ### Step 5: Reset
 To help prevent cross-contamination, it's important to finish cleaning and sanitizing a room before replacing items for the next guest:
-
 
 - [ ] Wash your cleaning supplies and tools used. Wash any cleaning cloths at the highest heat setting possible that is appropriate for the material.
 - [ ] Safely remove any cleaning gear once you are done cleaning
