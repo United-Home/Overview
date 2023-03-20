@@ -4,7 +4,13 @@
 Proper preparation can help you and your team clean more efficiently and more safely. Make sure you:
 
 - [ ] Ventilate the space before and during cleaning when possible
-- [ ] Use disinfectants approved by your local regulatory agencies for use against COVID-19
+- [ ] Gather the right cleaning supplies approved by Manager such as
+   - [ ]  Cleaning Vinegar (50%) + Water (50%) in spray bottle
+   - [ ]  Windex Glass and Window Cleaner, Original Blue
+   - [ ]  Baking Soda
+   - [ ]  Fresh Cleaning Rags
+   - [ ]  Vacuum (Use attachments appropriately)
+   - [ ]  Bathroom Cleaning Tools such as toilet brush and plunger
 - [ ] Always read the directions and warnings on your cleaning products carefully
 - [ ] Wash or disinfect your hands
 
