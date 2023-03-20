@@ -22,6 +22,7 @@ Proper preparation can help you and your team clean more efficiently and more sa
    - [ ]  Laundry Detergent
    - [ ]  Detergent Booster
    - [ ]  Dryer Sheets
+   - [ ]  Dish washing Soap
 - [ ] Always read the directions and warnings on your cleaning products carefully
 - [ ] Wash or disinfect your hands
 - [ ] Wear protective equipment
@@ -63,11 +64,10 @@ Once you’re done sanitizing, it’s a good idea to make sure you’ve not miss
 ### Step 5: Reset
 To help prevent cross-contamination, it's important to finish cleaning and sanitizing a room before replacing items for the next guest:
 
-- [ ] Wash your cleaning supplies and tools used. Wash any cleaning cloths at the highest heat setting possible that is appropriate for the material.
 - [ ] Safely remove any cleaning gear once you are done cleaning
 - [ ] Wash your hands for at least 20 seconds with soap and water before replacing guest supplies, linens, and cleaning kits
 - [ ] Refill guest cleaning supply bottles, you'll find these in the bathroom and kitchen cabinets
-- [ ] Safely dispose of or wash cleaning supplies and protective gear
+- [ ] Safely dispose of or wash cleaning supplies and protective gear. Wash your cleaning supplies and tools used. Wash any cleaning cloths at the highest heat setting possible that is appropriate for the material.
 - [ ] Don’t re-enter a room once it’s been sanitized
 - [ ] Clean your equipment between each turnover
 
