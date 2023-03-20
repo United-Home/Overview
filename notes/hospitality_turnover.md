@@ -22,7 +22,7 @@ Proper preparation can help you and your team clean more efficiently and more sa
    - [ ]  Laundry Detergent
    - [ ]  Detergent Booster
    - [ ]  Dryer Sheets
-   - [ ]  Dish washing Soap
+   - [ ]  Dish Washing Soap
 - [ ] Always read the directions and warnings on your cleaning products carefully
 - [ ] Wash or disinfect your hands
 - [ ] Wear protective equipment
@@ -65,12 +65,13 @@ Once you’re done sanitizing, it’s a good idea to make sure you’ve not miss
 To help prevent cross-contamination, it's important to finish cleaning and sanitizing a room before replacing items for the next guest:
 
 - [ ] Safely remove any cleaning gear once you are done cleaning
-- [ ] Wash your hands for at least 20 seconds with soap and water before replacing guest supplies, linens, and cleaning kits
+- [ ] Wash your hands for at least 20 seconds with soap and water before replacing guest supplies, linens, and cleaning kits.
+- [ ] Replace all linens.
+- [ ] Replace all guest supplies such as toilet paper and welcome baskets. The welcome baskets may include small toothpaste, floss, mini-hand sanitizers, mini-lotions, mini-tissues in packets, chocolates, and candies. Make sure the color of these kits are not gender-specific.
+- [ ] Check the shampoo, conditioner, and body wash in the bathroom if they're more than half-full. Replace or refill when not.
 - [ ] Refill guest cleaning supply bottles, you'll find these in the bathroom and kitchen cabinets
-- [ ] Safely dispose of or wash cleaning supplies and protective gear. Wash your cleaning supplies and tools used. Wash any cleaning cloths at the highest heat setting possible that is appropriate for the material.
+- [ ] Safely dispose of or wash cleaning supplies and protective gear. Wash any cleaning cloths at the highest heat setting possible that is appropriate for the material.
 - [ ] Don’t re-enter a room once it’s been sanitized
 - [ ] Clean your equipment between each turnover
 
-References:
-https://www.airbnb.com/help/article/2809/
-https://mammamode.com/airbnb-cleaning-checklist-5-star-turnover-success/
+
