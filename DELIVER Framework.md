@@ -1,9 +1,15 @@
 D – Define (Scope and project goals)
+
 E – Estimate (Time, costs, labor, and materials)
+
 L – Logistics (Managing site, schedule, and materials)
+
 I – Implement (Executing the plan)
+
 V – Validate (Ensuring work meets code/specs and stays in scope)
+
 E – Eliminate (Fixing issues, improving efficiency, and cleaning up) OR Enhance(?)
+
 R – Report (Final documentation, invoicing, and closeout)
 
 ---
