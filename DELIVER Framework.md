@@ -8,7 +8,7 @@ I – Implement (Executing the plan)
 
 V – Validate (Ensuring work meets code/specs and stays in scope)
 
-E – Eliminate (Fixing issues, improving efficiency, and cleaning up) OR Enhance(?)
+E – Enhance (Optimizing systems, strengthening relationships, and proposing future work)
 
 R – Report (Final documentation, invoicing, and closeout)
 
@@ -31,15 +31,20 @@ Implementation is the mobilization phase where planning transitions into physica
 **V – Validate**
 Validation is the continuous process of Quality Assurance and Quality Control (QA/QC) to verify that all completed work complies with local building codes, safety regulations, and the project’s technical specifications. Regular site inspections and third-party testing are conducted to catch deviations early, preventing expensive rework and ensuring structural integrity. Furthermore, this phase involves cross-referencing progress against the original scope to ensure no unapproved changes have occurred, guaranteeing that the final product matches the client’s contractual expectations.
 
-**E – Eliminate**
-The Eliminate phase is dedicated to resolving deficiencies, removing job site waste, and refining processes to close out the physical construction efforts. This involves generating and tackling the "punch list"—fixing cosmetic flaws, mechanical adjustments, or incomplete details identified during walkthroughs. Additionally, this stage focuses on safety and efficiency by eliminating job site hazards and clearing out debris and surplus materials, leaving the facility in a pristine, move-in-ready condition for the owner.
+**E – Enhance**
+The Enhance phase elevates the project from simple contractual compliance to long-term value creation and relationship continuity. Technically, this involves the fine-tuning and commissioning of systems to ensure the facility operates at peak efficiency for the owner. Strategically, this is the pivot point where the contractor transitions into a trusted advisor role. Instead of severing ties upon completion, the team evaluates the project to propose "Phase 2" improvements, next-level MVPs, or adjacent maintenance projects suited to the crew’s skills. By focusing on optimization and future needs, the contractor ensures the client feels supported beyond the build, securing a pipeline for repeat business and referrals.
 
 **R – Report**
 Reporting constitutes the administrative closeout of the project, ensuring that all documentation, financial accounts, and legal requirements are finalized and archived. This includes compiling "as-built" drawings, operation and maintenance manuals, and warranty information to hand over to the facility manager or owner. Financially, this phase triggers final invoicing, lien waivers, and the release of retainage, formally marking the conclusion of the contract and providing a clear record of project success for future reference.
 
 ---
 
-### Eliminate or Enhance?
+### Summary of the DELIVER Flow
 
-**E – Enhance**
-The Enhance phase moves the project beyond mere compliance to focus on optimization and superior performance, ensuring the final product delivers maximum value to the client. This stage involves the fine-tuning and commissioning of building systems—such as HVAC balance and lighting controls—to guarantee they operate at peak energy efficiency and functionality before occupancy. Additionally, this is the opportunity to elevate the final aesthetic quality and refine operational workflows, ensuring the facility is not just built to spec, but is fully optimized for its long-term purpose and lifecycle maintenance.
+1.  **Define:** What are we building?
+2.  **Estimate:** How much will it cost/take?
+3.  **Logistics:** How do we move things/people?
+4.  **Implement:** Build it.
+5.  **Validate:** Did we build it right? (QA/QC)
+6.  **Enhance:** Can we make it run better and what should we build next? (Value Add/Upsell)
+7.  **Report:** Here is the paperwork; pay us. (Closeout) aesthetic quality and refine operational workflows, ensuring the facility is not just built to spec, but is fully optimized for its long-term purpose and lifecycle maintenance.
